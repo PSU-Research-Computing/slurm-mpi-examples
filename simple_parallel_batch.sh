@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#SBATCH --job-name=SimpleBatch
+#SBATCH --job-name=SimpleParBatch
 #SBATCH --partition main
 
 JOB_COUNT=5
